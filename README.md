@@ -19,7 +19,7 @@ Took me 20 minutes to reach the end on a new hachintosh install (Tahoe)
 
 To try it on a Mac:
 
-h
+Sh
 brew install libusb cmake
 cmake -S . -B build && cmake --build build -j
 ./build/tetherlite --list
